@@ -44,7 +44,7 @@
     text-align:center;
      margin: auto;
     position: relative;
-    background-image: linear-gradient(orange 3%,lightblue 97%);
+    background-color:lightblue;
 
 }
 input{
