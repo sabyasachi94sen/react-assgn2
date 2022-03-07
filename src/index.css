@@ -1,25 +1,13 @@
 .wrapper{
     width:50%;
-   
-    border:2px solid brown;
+     border:2px solid brown;
     display: flex;
-    
     position: relative;
-    background-color: lightblue;
+    background-image
     flex-wrap: wrap;
-    
-
     align-items: flex-start;
     top:30px;
     margin:auto;
-
-    
-
-  
-    
-
-  
-    
 }
 
 .box{
@@ -34,9 +22,7 @@
     padding-top: 10px;
     margin-left: 40px;
    
-   
-    
-}
+ }
 
 .forms{
      width:100%;
@@ -44,7 +30,7 @@
     text-align:center;
      margin: auto;
     position: relative;
-    background-color:lightblue;
+   background-image: linear-gradient(skyblue 10%,pink 90%);
 
 }
 input{
