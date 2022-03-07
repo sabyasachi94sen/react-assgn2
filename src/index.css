@@ -3,7 +3,7 @@
      border:2px solid brown;
     display: flex;
     position: relative;
-    background-image
+    background-color:lightblue;
     flex-wrap: wrap;
     align-items: flex-start;
     top:30px;
@@ -30,7 +30,7 @@
     text-align:center;
      margin: auto;
     position: relative;
-   background-image: linear-gradient(skyblue 10%,pink 90%);
+   background-image: linear-gradient(skyblue 450%,pink 45%);
 
 }
 input{
